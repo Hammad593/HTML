@@ -1,0 +1,5 @@
+body{
+    background-image: url("goku3.jpg"), url("goku4.jpg"),url("download.jpg");
+    background-repeat: no-repeat,no-repeat,no-repeat; 
+    background-size: 300px 300px;
+    background-position: 0px 0px , 300px 0px , 600pX 0PX
